@@ -1,5 +1,5 @@
 
-## We (hopefully) code a lot
+# We (hopefully) code a lot
 
 ***
 
@@ -10,14 +10,17 @@
 
 ***
 
-# Languages:
-
-***
+## Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
+***
+
+PS ik this page sucks rn ill work on it trust its college apps season and my favourite colead on whom i was planning to dump all my work on until january got swept off the face of the EARTH 
+
+![Helpme](https://media1.tenor.com/m/6RvyvMjx3XMAAAAd/he-is-speaking-guy-explaining-with-a-whiteboard.gif)
 
 
 
