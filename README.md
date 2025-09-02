@@ -18,7 +18,7 @@
 
 ***
 
-PS ik this page sucks rn ill work on it trust its college apps season and my favourite colead on whom i was planning to dump all my work on until january got swept off the face of the EARTH 
+PS ik this page sucks rn ill work on it trust its college apps season and my favourite colead on whom i was planning to dump all my work until january was sent to a convent or something 
 
 ![helpme](he-is-speaking-guy-explaining-with-a-whiteboard.gif) 
 
