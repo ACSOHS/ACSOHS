@@ -1,16 +1,16 @@
 
-#We (hopefully) code a lot
+## We (hopefully) code a lot
 
 ***
 
-###Some stats:
+### Some stats:
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ACSOHS&show_icons=true&theme=radical)
 
 ***
 
-*Languages:
+# Languages:
 
 ***
 
