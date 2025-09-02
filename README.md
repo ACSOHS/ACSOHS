@@ -1,6 +1,10 @@
 
 # We (hopefully) code a lot
 
+# Our Lord and Saviour:
+
+https://www.youtube.com/@Fireship
+
 ***
 
 ### Some stats:
@@ -19,6 +23,9 @@
 ***
 
 PS ik this page sucks rn ill work on it trust its college apps season and my favourite colead on whom i was planning to dump all my work until january was sent to a convent or something 
+
+I KNEW IT
+convents are overrated tbh
 
 ![helpme](he-is-speaking-guy-explaining-with-a-whiteboard.gif) 
 
