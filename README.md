@@ -20,7 +20,8 @@
 
 PS ik this page sucks rn ill work on it trust its college apps season and my favourite colead on whom i was planning to dump all my work on until january got swept off the face of the EARTH 
 
-![Helpme](https://tenor.com/view/he-is-speaking-guy-explaining-with-a-whiteboard-some-guy-explaining-gif-19593300.gif) 
+<img src="https://tenor.com/view/he-is-speaking-guy-explaining-with-a-whiteboard-some-guy-explaining-gif-19593300" alt="helpme" width="200">
+
 
 
 
